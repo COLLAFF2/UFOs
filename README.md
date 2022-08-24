@@ -16,7 +16,7 @@
 
 ## :boom: Summary :boom:
 
-### :satr: Sites Drawback :star:
+### :star: Sites Drawback :star:
 
     * Although it is easy to navigate this webpage it is limited to the data in our data.js file that only covers January of 2010.
     * Also if we are limiting our dataset to just January of 2010 why have date as a filter?
