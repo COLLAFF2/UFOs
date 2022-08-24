@@ -11,6 +11,18 @@
    ![filter search](static/images/filter%20search.png)
 
    * The  user can now search on different criteria. They can choose date, city, state, country, and or shape. Someone can choose only one filter or a combination of multiple or all filters.
-   * Once the  search criteria is entered, the redults will pop up in the table to the right.
+   * Once the  search criteria is entered, the results will pop up in the table to the right.
    ![](static/images/tableData.png)
-   
+
+## :boom: Summary :boom:
+
+### :satr: Sites Drawback :star:
+
+    * Although it is easy to navigate this webpage it is limited to the data in our data.js file that only covers January of 2010.
+    * Also if we are limiting our dataset to just January of 2010 why have date as a filter?
+
+### :star: Recommendations :star:
+
+    * The webpage could use a larger dataset to make it more useful to the user. 
+    * I would recommend not having the date as a filter becuase it is more limiting to an already limited dataset.
+
